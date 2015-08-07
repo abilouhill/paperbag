@@ -16,3 +16,14 @@ adding <- function(x,y){
   
 }
 
+#' Now to subtract
+#' 
+#' Before we added, now lets subtract
+#' @param Z A param
+#' @param W Another param
+#' @return A single integer
+#' @export subtrating
+#' @example subtracting (5,2)
+subtracting <- function (z,w){
+  z - w
+}
